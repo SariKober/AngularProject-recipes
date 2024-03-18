@@ -1,0 +1,36 @@
+<div
+	class="container"
+	id="container"
+	[ngClass]="{'right-panel-active': isClickSignUp}"
+>
+	<div class="form-container sign-up-container">
+		<form action="#" [formGroup]="this.addUser">
+			<h1>הירשם</h1>
+			<span>או השתמש באימייל שלך לרישום</span>
+			<input formControlName="name" type="text" placeholder="Username" />
+			<input
+				formControlName="password"
+				type="password"
+				placeholder="Password"
+			/>
+			<input formControlName="email" type="email" placeholder="Email" />
+			<input formControlName="address" type="text" placeholder="Address" />
+
+			<button (click)="signUp()" [disabled]="!this.addUser.valid">הירשם</button>
+		</form>
+	</div>
+	<div class="overlay-container">
+		<div class="overlay">
+			<div class="overlay-panel overlay-left">
+				<h1>ברוך שובך</h1>
+				<p>כדי לשמור על קשר איתנו, התחבר עם המידע האישי שלך</p>
+				<button (click)="toLogin()" class="ghost" id="signIn">התחברות</button>
+			</div>
+			<div class="overlay-panel overlay-right">
+				<h1>שלום חבר!</h1>
+				<p>הזינו את הפרטים האישיים שלכם והתחילו איתנו את התהליך</p>
+				<button class="ghost" id="signUp">הירשם</button>
+			</div>
+		</div>
+	</div>
+</div>

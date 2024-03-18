@@ -1,0 +1,35 @@
+<div id="detailsContainer">
+	<img src="{{ recipe.image }}" />
+	<div>
+		<h1>{{ recipe.name }}</h1>
+		<hr />
+		<h2>{{ recipe.preparationTime | duration }}</h2>
+		<hr />
+		<h2>תאריך הוספת המתכון:{{ this.recipe.dateAdded }}</h2>
+		<hr />
+		<h2>{{ recipe.levelOfDifficulty | starLevel }}</h2>
+		<hr />
+		<ul>
+			רכיבים:
+			<li *ngFor="let item of recipe.listOfComponents">
+				{{ item }}
+			</li>
+		</ul>
+		<hr />
+		<ul>
+			הוראות הכנה:
+			<li *ngFor="let item of recipe.preparation">
+				{{ item }}
+			</li>
+		</ul>
+		<hr />
+		<div *ngIf="this.isUserAddeed" class="buttons">
+			<button class="btn btn-primary" (click)="toEditRecipe()">
+				לעריכת המתכון
+			</button>
+			<button class="btn btn-primary" (click)="dleteRecipe()">
+				למחיקת המתכון
+			</button>
+		</div>
+	</div>
+</div>

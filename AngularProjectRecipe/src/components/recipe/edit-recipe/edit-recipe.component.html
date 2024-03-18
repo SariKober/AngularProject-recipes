@@ -1,0 +1,138 @@
+<link
+	href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+	rel="stylesheet"
+/>
+<link
+	href="https://getbootstrap.com/docs/5.3/assets/css/docs.css"
+	rel="stylesheet"
+/>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<div class="container">
+	<form [formGroup]="editRecipeForm" class="row g-3">
+		<h1>עריכת מתכון</h1>
+		<h5>נא ערוך את השדות הבאים</h5>
+		<hr />
+		<div class="col-md-6">
+			<label for="categoryCode" class="form-label">קטגוריה</label>
+			<select
+				[ngClass]="{
+					'is-invalid':
+						editRecipeForm.get('categoryCode')?.invalid &&
+						editRecipeForm.get('categoryCode')?.touched
+				}"
+				formControlName="categoryCode"
+				class="form-select"
+				required
+			>
+				<option *ngFor="let item of categories" value="{{ item.code }}">
+					{{ item.name }}
+				</option>
+			</select>
+			<div class="invalid-feedback">בחר קטגוריה</div>
+		</div>
+
+		<div class="col-md-6">
+			<label for="name" class="form-label">שם</label>
+			<input
+				type="text"
+				formControlName="name"
+				class="form-control"
+				[ngClass]="{
+					'is-invalid':
+						editRecipeForm.get('name')?.invalid &&
+						editRecipeForm.get('name')?.touched
+				}"
+				required
+			/>
+			<div class="invalid-feedback">הכנס שם מתכון</div>
+		</div>
+		<div class="col-md-6">
+			<label for="preparationTime" class="form-label">זמן הכנה</label>
+			<input
+				[ngClass]="{
+					'is-invalid':
+						editRecipeForm.get('preparationTime')?.invalid &&
+						editRecipeForm.get('preparationTime')?.touched
+				}"
+				required
+				type="number"
+				formControlName="preparationTime"
+				class="form-control"
+				required
+			/>
+			<div class="invalid-feedback">הכנס זמן הכנה</div>
+		</div>
+
+		<div class="col-md-6">
+			<label for="levelOfDifficulty" class="form-label">דרגת קושי</label>
+			<select
+				[ngClass]="{
+					'is-invalid':
+						editRecipeForm.get('levelOfDifficulty')?.invalid &&
+						editRecipeForm.get('levelOfDifficulty')?.touched
+				}"
+				formControlName="levelOfDifficulty"
+				class="form-select"
+				required
+			>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+			</select>
+			<div class="invalid-feedback">בחר דרגת קושי</div>
+		</div>
+
+		<div class="col-md-6">
+			<label for="image" class="form-label">תמונה</label>
+			<input
+				[ngClass]="{
+					'is-invalid':
+						editRecipeForm.get('image')?.invalid &&
+						editRecipeForm.get('image')?.touched
+				}"
+				required
+				type="text"
+				formControlName="image"
+				class="form-control"
+			/>
+			<div class="invalid-feedback">אנא ספק כתובת אתר חוקית של תמונה..</div>
+		</div>
+
+		<div formArrayName="listOfComponents" class="col-md-6">
+			<div>רכיבים</div>
+			<div *ngFor="let step of listOfComponentsArray.controls; let i = index">
+				<input
+					matInput
+					[formControlName]="i"
+					placeholder="רכיב"
+					class="form-control"
+				/>
+			</div>
+
+			<button class="bt" (click)="addListOfComponents()">➕</button>
+
+			<button class="bt" (click)="removeListOfComponents()">❌</button>
+		</div>
+
+		<div formArrayName="preparation" class="col-md-6">
+			<div>שלבי הכנה</div>
+			<div *ngFor="let step of preparationArray.controls; let i = index">
+				<input
+					matInput
+					[formControlName]="i"
+					placeholder="שלב"
+					class="form-control"
+				/>
+			</div>
+			<button class="bt" (click)="addPreparation()">➕</button>
+			<button class="bt" (click)="removePreparation()">❌</button>
+		</div>
+		<div class="col-12">
+			<button (click)="onSave()" type="submit" class="btn btn-primary">
+				אישור
+			</button>
+		</div>
+	</form>
+</div>

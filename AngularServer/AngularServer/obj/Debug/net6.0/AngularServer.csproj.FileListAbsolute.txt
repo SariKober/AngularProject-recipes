@@ -1,0 +1,145 @@
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.exe
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.deps.json
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.runtimeconfig.json
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.pdb
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.AssemblyInfo.cs
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\scopedcss\bundle\AngularServer.styles.css
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.csproj.CopyComplete
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\refint\AngularServer.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.pdb
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.genruntimeconfig.cache
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject\AngularServer\AngularServer\obj\Debug\net6.0\ref\AngularServer.dll
+C:\Users\The user\Documents\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.csproj.AssemblyReference.cache
+C:\Users\The user\Documents\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.AssemblyInfo.cs
+C:\Users\The user\Documents\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Documents\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Documents\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.dll
+C:\Users\The user\Documents\AngularServer\AngularServer\obj\Debug\net6.0\refint\AngularServer.dll
+C:\Users\The user\Documents\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.pdb
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\AngularServer.exe
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\AngularServer.deps.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\AngularServer.runtimeconfig.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\AngularServer.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\AngularServer.pdb
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.AssemblyInfo.cs
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\scopedcss\bundle\AngularServer.styles.css
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.csproj.CopyComplete
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\refint\AngularServer.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.pdb
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.genruntimeconfig.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\angular\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\ref\AngularServer.dll
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\AngularServer.exe
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\AngularServer.deps.json
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\AngularServer.runtimeconfig.json
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\AngularServer.dll
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\AngularServer.pdb
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.csproj.AssemblyReference.cache
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.AssemblyInfo.cs
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\scopedcss\bundle\AngularServer.styles.css
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularS.A5359271.Up2Date
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.dll
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\refint\AngularServer.dll
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.pdb
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\AngularServer.genruntimeconfig.cache
+C:\Users\The user\Documents\פרויקט אנגולר\66666666666666666666666666666666666666666666666666\AngularServer\obj\Debug\net6.0\ref\AngularServer.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.exe
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.deps.json
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.runtimeconfig.json
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.pdb
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.AssemblyInfo.cs
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\scopedcss\bundle\AngularServer.styles.css
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.csproj.CopyComplete
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\refint\AngularServer.dll
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.pdb
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.genruntimeconfig.cache
+Y:\Groups\Group_3\קובר  שרה\Angular\AngularProject-recipe\AngularProject-recipes\AngularServer\AngularServer\obj\Debug\net6.0\ref\AngularServer.dll
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.exe
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.deps.json
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.runtimeconfig.json
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.dll
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\bin\Debug\net6.0\AngularServer.pdb
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.AssemblyInfo.cs
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\scopedcss\bundle\AngularServer.styles.css
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.csproj.CopyComplete
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.dll
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\refint\AngularServer.dll
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.pdb
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\AngularServer.genruntimeconfig.cache
+Y:\Groups\Group_3\קובר  שרה\AngularProjectRecipe\AngularServer\AngularServer\obj\Debug\net6.0\ref\AngularServer.dll
